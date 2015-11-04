@@ -3,341 +3,331 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800" height="800">
   <defs>
     <g id="white-square">
-      <rect width="100" height="100" style="fill:#fff" />
+      <rect width="100" height="100" style="fill:#fff"/>
     </g>
     <g id="black-square" style="stroke:#000;stroke-width:1">
-      <use xlink:href="#white-square" />
-      <line x1='95' y1='0' x2='100' y2='5' />
-      <line x1='90' y1='0' x2='100' y2='10' />
-      <line x1='85' y1='0' x2='100' y2='15' />
-      <line x1='80' y1='0' x2='100' y2='20' />
-      <line x1='75' y1='0' x2='100' y2='25' />
-      <line x1='70' y1='0' x2='100' y2='30' />
-      <line x1='65' y1='0' x2='100' y2='35' />
-      <line x1='60' y1='0' x2='100' y2='40' />
-      <line x1='55' y1='0' x2='100' y2='45' />
-      <line x1='50' y1='0' x2='100' y2='50' />
-      <line x1='45' y1='0' x2='100' y2='55' />
-      <line x1='40' y1='0' x2='100' y2='60' />
-      <line x1='35' y1='0' x2='100' y2='65' />
-      <line x1='30' y1='0' x2='100' y2='70' />
-      <line x1='25' y1='0' x2='100' y2='75' />
-      <line x1='20' y1='0' x2='100' y2='80' />
-      <line x1='15' y1='0' x2='100' y2='85' />
-      <line x1='10' y1='0' x2='100' y2='90' />
-      <line x1='5' y1='0' x2='100' y2='95' />
-      <line x1='0' y1='0' x2='100' y2='100' />
-      <line x1='0' y1='5' x2='95' y2='100' />
-      <line x1='0' y1='10' x2='90' y2='100' />
-      <line x1='0' y1='15' x2='85' y2='100' />
-      <line x1='0' y1='20' x2='80' y2='100' />
-      <line x1='0' y1='25' x2='75' y2='100' />
-      <line x1='0' y1='30' x2='70' y2='100' />
-      <line x1='0' y1='35' x2='65' y2='100' />
-      <line x1='0' y1='40' x2='60' y2='100' />
-      <line x1='0' y1='45' x2='55' y2='100' />
-      <line x1='0' y1='50' x2='50' y2='100' />
-      <line x1='0' y1='55' x2='45' y2='100' />
-      <line x1='0' y1='60' x2='40' y2='100' />
-      <line x1='0' y1='65' x2='35' y2='100' />
-      <line x1='0' y1='70' x2='30' y2='100' />
-      <line x1='0' y1='75' x2='25' y2='100' />
-      <line x1='0' y1='80' x2='20' y2='100' />
-      <line x1='0' y1='85' x2='15' y2='100' />
-      <line x1='0' y1='90' x2='10' y2='100' />
-      <line x1='0' y1='95' x2='5' y2='100' />
-      <line x1='0' y1='100' x2='0' y2='100' />
+      <use xlink:href="#white-square"/>
+      <line x1='95' x2='100' y2='5'/>
+      <line x1='90' x2='100' y2='10'/>
+      <line x1='85' x2='100' y2='15'/>
+      <line x1='80' x2='100' y2='20'/>
+      <line x1='75' x2='100' y2='25'/>
+      <line x1='70' x2='100' y2='30'/>
+      <line x1='65' x2='100' y2='35'/>
+      <line x1='60' x2='100' y2='40'/>
+      <line x1='55' x2='100' y2='45'/>
+      <line x1='50' x2='100' y2='50'/>
+      <line x1='45' x2='100' y2='55'/>
+      <line x1='40' x2='100' y2='60'/>
+      <line x1='35' x2='100' y2='65'/>
+      <line x1='30' x2='100' y2='70'/>
+      <line x1='25' x2='100' y2='75'/>
+      <line x1='20' x2='100' y2='80'/>
+      <line x1='15' x2='100' y2='85'/>
+      <line x1='10' x2='100' y2='90'/>
+      <line x1='5' x2='100' y2='95'/>
+      <line x2='100' y2='100'/>
+      <line y1='5' x2='95' y2='100'/>
+      <line y1='10' x2='90' y2='100'/>
+      <line y1='15' x2='85' y2='100'/>
+      <line y1='20' x2='80' y2='100'/>
+      <line y1='25' x2='75' y2='100'/>
+      <line y1='30' x2='70' y2='100'/>
+      <line y1='35' x2='65' y2='100'/>
+      <line y1='40' x2='60' y2='100'/>
+      <line y1='45' x2='55' y2='100'/>
+      <line y1='50' x2='50' y2='100'/>
+      <line y1='55' x2='45' y2='100'/>
+      <line y1='60' x2='40' y2='100'/>
+      <line y1='65' x2='35' y2='100'/>
+      <line y1='70' x2='30' y2='100'/>
+      <line y1='75' x2='25' y2='100'/>
+      <line y1='80' x2='20' y2='100'/>
+      <line y1='85' x2='15' y2='100'/>
+      <line y1='90' x2='10' y2='100'/>
+      <line y1='95' x2='5' y2='100'/>
     </g>
-    <pattern id="black-piece-fill" patternUnits="userSpaceOnUse" width="100" height="100">
+    <pattern id="black-fill" patternUnits="userSpaceOnUse" width="100" height="100">
       <g style="fill=#fff;stroke:#000;stroke-width:2">
-        <use xlink:href="#white-square" />
-        <line x1= '0' y1=  '5' x2=  '5' y2= '0' />
-        <line x1= '0' y1= '10' x2= '10' y2= '0' />
-        <line x1= '0' y1= '15' x2= '15' y2= '0' />
-        <line x1= '0' y1= '20' x2= '20' y2= '0' />
-        <line x1= '0' y1= '25' x2= '25' y2= '0' />
-        <line x1= '0' y1= '30' x2= '30' y2= '0' />
-        <line x1= '0' y1= '35' x2= '35' y2= '0' />
-        <line x1= '0' y1= '40' x2= '40' y2= '0' />
-        <line x1= '0' y1= '45' x2= '45' y2= '0' />
-        <line x1= '0' y1= '50' x2= '50' y2= '0' />
-        <line x1= '0' y1= '55' x2= '55' y2= '0' />
-        <line x1= '0' y1= '60' x2= '60' y2= '0' />
-        <line x1= '0' y1= '65' x2= '65' y2= '0' />
-        <line x1= '0' y1= '70' x2= '70' y2= '0' />
-        <line x1= '0' y1= '75' x2= '75' y2= '0' />
-        <line x1= '0' y1= '80' x2= '80' y2= '0' />
-        <line x1= '0' y1= '85' x2= '85' y2= '0' />
-        <line x1= '0' y1= '90' x2= '90' y2= '0' />
-        <line x1= '0' y1= '95' x2= '95' y2= '0' />
-        <line x1= '0' y1='100' x2='100' y2= '0' />
-        <line x1= '5' y1='100' x2='100' y2= '5' />
-        <line x1='10' y1='100' x2='100' y2='10' />
-        <line x1='15' y1='100' x2='100' y2='15' />
-        <line x1='20' y1='100' x2='100' y2='20' />
-        <line x1='25' y1='100' x2='100' y2='25' />
-        <line x1='30' y1='100' x2='100' y2='30' />
-        <line x1='35' y1='100' x2='100' y2='35' />
-        <line x1='40' y1='100' x2='100' y2='40' />
-        <line x1='45' y1='100' x2='100' y2='45' />
-        <line x1='50' y1='100' x2='100' y2='50' />
-        <line x1='55' y1='100' x2='100' y2='55' />
-        <line x1='60' y1='100' x2='100' y2='60' />
-        <line x1='65' y1='100' x2='100' y2='65' />
-        <line x1='70' y1='100' x2='100' y2='70' />
-        <line x1='75' y1='100' x2='100' y2='75' />
-        <line x1='80' y1='100' x2='100' y2='80' />
-        <line x1='85' y1='100' x2='100' y2='85' />
-        <line x1='90' y1='100' x2='100' y2='90' />
-        <line x1='95' y1='100' x2='100' y2='95' />
+        <use xlink:href="#white-square"/>
+        <line y1=  '5' x2=  '5' />
+        <line y1= '10' x2= '10' />
+        <line y1= '15' x2= '15' />
+        <line y1= '20' x2= '20' />
+        <line y1= '25' x2= '25' />
+        <line y1= '30' x2= '30' />
+        <line y1= '35' x2= '35' />
+        <line y1= '40' x2= '40' />
+        <line y1= '45' x2= '45' />
+        <line y1= '50' x2= '50' />
+        <line y1= '55' x2= '55' />
+        <line y1= '60' x2= '60' />
+        <line y1= '65' x2= '65' />
+        <line y1= '70' x2= '70' />
+        <line y1= '75' x2= '75' />
+        <line y1= '80' x2= '80' />
+        <line y1= '85' x2= '85' />
+        <line y1= '90' x2= '90' />
+        <line y1= '95' x2= '95' />
+        <line y1='100' x2='100' />
+        <line x1= '5' y1='100' x2='100' y2= '5'/>
+        <line x1='10' y1='100' x2='100' y2='10'/>
+        <line x1='15' y1='100' x2='100' y2='15'/>
+        <line x1='20' y1='100' x2='100' y2='20'/>
+        <line x1='25' y1='100' x2='100' y2='25'/>
+        <line x1='30' y1='100' x2='100' y2='30'/>
+        <line x1='35' y1='100' x2='100' y2='35'/>
+        <line x1='40' y1='100' x2='100' y2='40'/>
+        <line x1='45' y1='100' x2='100' y2='45'/>
+        <line x1='50' y1='100' x2='100' y2='50'/>
+        <line x1='55' y1='100' x2='100' y2='55'/>
+        <line x1='60' y1='100' x2='100' y2='60'/>
+        <line x1='65' y1='100' x2='100' y2='65'/>
+        <line x1='70' y1='100' x2='100' y2='70'/>
+        <line x1='75' y1='100' x2='100' y2='75'/>
+        <line x1='80' y1='100' x2='100' y2='80'/>
+        <line x1='85' y1='100' x2='100' y2='85'/>
+        <line x1='90' y1='100' x2='100' y2='90'/>
+        <line x1='95' y1='100' x2='100' y2='95'/>
       </g>
     </pattern>
-    <g id="pawn" width="100" height="100" >
-      <g style="opacity:1; fill-opacity:1; fill-rule:nonzero; stroke:#000; stroke-width:3; stroke-linecap:round, stroke-linejoin:miter, stroke-miterlimit:4; stroke-dasharray: none; stroke-opacity:1;">
-        <path d="M 48.9,20.0 C 44.0,20.0 40.0,24.0 40.0,28.9 C 40.0,30.9 40.6,32.7 41.7,34.2 C 37.4,36.7 34.4,41.3 34.4,46.7 C 34.4,51.2 36.5,55.2 39.8,57.8 C 33.1,60.2 23.3,70.2 23.3,87.8 L 74.4,87.8 C 74.4,70.2 64.6,60.2 58.0,57.8 C 61.2,55.2 63.3,51.2 63.3,46.7 C 63.3,41.3 60.4,36.7 56.0,34.2 C 57.1,32.7 57.8,30.9 57.8,28.9 C 57.8,24.0 53.8,20.0 48.9,20.0 z " />
+    <g id="pawn" width="100" height="100">
+      <g style="opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">
+        <path d="M 48.9,20.0 C 44.0,20.0 40.0,24.0 40.0,28.9 C 40.0,30.9 40.6,32.7 41.7,34.2 C 37.4,36.7 34.4,41.3 34.4,46.7 C 34.4,51.2 36.5,55.2 39.8,57.8 C 33.1,60.2 23.3,70.2 23.3,87.8 L 74.4,87.8 C 74.4,70.2 64.6,60.2 58.0,57.8 C 61.2,55.2 63.3,51.2 63.3,46.7 C 63.3,41.3 60.4,36.7 56.0,34.2 C 57.1,32.7 57.8,30.9 57.8,28.9 C 57.8,24.0 53.8,20.0 48.9,20.0 z"/>
       </g>
     </g>
-    <g id="knight" width="100" height="100" >
-      <g style="opacity:1; fill-opacity:1; fill-rule:evenodd; stroke:#000; stroke-width:3; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <g id="knight" width="100" height="100">
+      <g style="opacity:1;fill-opacity:1;fill-rule:evenodd;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">
         <path
-          d="M 48.9,22.2 C 72.2,24.4 85.6,40.0 84.4,86.7 L 33.3,86.7 C 33.3,66.7 55.6,72.2 51.1,40.0"
-          style="stroke:#000;" />
+          d="M 48.9,22.2 C 72.2,24.4 85.6,40.0 84.4,86.7 L 33.3,86.7 C 33.3,66.7 55.6,72.2 51.1,40.0"/>
         <path
-          d="M 53.3,40.0 C 54.2,46.5 41.0,56.4 35.6,60.0 C 28.9,64.4 29.3,69.6 24.4,68.9 C 22.1,66.8 27.6,62.1 24.4,62.2 C 22.2,62.2 24.9,65.0 22.2,66.7 C 20.0,66.7 13.3,68.9 13.3,57.8 C 13.3,53.3 26.7,31.1 26.7,31.1 C 26.7,31.1 30.9,26.9 31.1,23.3 C 29.5,21.1 30.0,18.9 30.0,16.7 C 32.2,14.4 36.7,22.2 36.7,22.2 L 41.1,22.2 C 41.1,22.2 42.8,17.8 46.7,15.6 C 48.9,15.6 48.9,22.2 48.9,22.2"
-          style="stroke:#000;" />
+          d="M 53.3,40.0 C 54.2,46.5 41.0,56.4 35.6,60.0 C 28.9,64.4 29.3,69.6 24.4,68.9 C 22.1,66.8 27.6,62.1 24.4,62.2 C 22.2,62.2 24.9,65.0 22.2,66.7 C 20.0,66.7 13.3,68.9 13.3,57.8 C 13.3,53.3 26.7,31.1 26.7,31.1 C 26.7,31.1 30.9,26.9 31.1,23.3 C 29.5,21.1 30.0,18.9 30.0,16.7 C 32.2,14.4 36.7,22.2 36.7,22.2 L 41.1,22.2 C 41.1,22.2 42.8,17.8 46.7,15.6 C 48.9,15.6 48.9,22.2 48.9,22.2"/>
         <path
           d="M 21.1 56.7 A 1.1 1.1 0.0 2.2 2.2 18.9,56.7 A 1.1 1.1 0.0 2.2 2.2 21.1 56.7 z"
-          style="fill:#000; stroke:#000;" />
+          style="fill:#000"/>
         <path
           d="M 33.3 34.4 A 1.1 3.3 0.0 2.2 2.2  31.1,34.4 A 1.1 3.3 0.0 2.2 2.2  33.3 34.4 z"
           transform="matrix(0.866,0.5,-0.5,0.866,21.54,-11.496)"
-          style="fill:#000; stroke:#000;" />
+          style="fill:#000"/>
       </g>
     </g> 
-    <g id="bishop" width="100" height="100" >
-      <g style="opacity:1; fill-rule:evenodd; fill-opacity:1; stroke:#000000; stroke-width:3; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <g id="bishop" width="100" height="100">
+      <g style="opacity:1;fill-rule:evenodd;fill-opacity:1;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">
         <g style="stroke-linecap:butt;"> 
           <path
-            d="M 20.0,80.0 C 27.5,77.8 42.5,81.0 50.0,75.6 C 57.5,81.0 72.5,77.8 80.0,80.0 C 80.0,80.0 83.7,81.2 86.7,84.4 C 85.2,86.6 83.0,86.6 80.0,85.6 C 72.5,83.4 57.5,86.6 50.0,83.3 C 42.5,86.6 27.5,83.4 20.0,85.6 C 17.0,86.6 14.8,86.6 13.3,84.4 C 16.3,80.1 20.0,80.0 20.0,80.0 z" />
+            d="M 20.0,80.0 C 27.5,77.8 42.5,81.0 50.0,75.6 C 57.5,81.0 72.5,77.8 80.0,80.0 C 80.0,80.0 83.7,81.2 86.7,84.4 C 85.2,86.6 83.0,86.6 80.0,85.6 C 72.5,83.4 57.5,86.6 50.0,83.3 C 42.5,86.6 27.5,83.4 20.0,85.6 C 17.0,86.6 14.8,86.6 13.3,84.4 C 16.3,80.1 20.0,80.0 20.0,80.0 z"/>
           <path
-            d="M 33.3,71.1 C 38.9,76.7 61.1,76.7 66.7,71.1 C 67.8,67.8 66.7,66.7 66.7,66.7 C 66.7,61.1 61.1,57.8 61.1,57.8 C 73.3,54.4 74.4,32.2 50.0,23.3 C 25.6,32.2 26.7,54.4 38.9,57.8 C 38.9,57.8 33.3,61.1 33.3,66.7 C 33.3,66.7 32.2,67.8 33.3,71.1 z" />
+            d="M 33.3,71.1 C 38.9,76.7 61.1,76.7 66.7,71.1 C 67.8,67.8 66.7,66.7 66.7,66.7 C 66.7,61.1 61.1,57.8 61.1,57.8 C 73.3,54.4 74.4,32.2 50.0,23.3 C 25.6,32.2 26.7,54.4 38.9,57.8 C 38.9,57.8 33.3,61.1 33.3,66.7 C 33.3,66.7 32.2,67.8 33.3,71.1 z"/>
           <path
-            d="M 55.6 17.8 A 5.6 5.6 0.0 2.2 2.2  44.4,17.8 A 5.6 5.6 0.0 2.2 2.2  55.6 17.8 z" />
+            d="M 55.6 17.8 A 5.6 5.6 0.0 2.2 2.2  44.4,17.8 A 5.6 5.6 0.0 2.2 2.2  55.6 17.8 z"/>
         </g>
         <path
           d="M 38.9,57.8 L 61.1,57.8 M 33.3,66.7 L 66.7,66.7 M 50.0,34.4 L 50.0,45.6 M 44.4,40.0 L 55.6,40.0"
-          style="fill:none; stroke-linejoin:miter;" />
+          style="fill:none;stroke-linejoin:miter;"/>
       </g>
     </g>
-    <g id="rook" width="100" height="100" >
-      <g style="opacity:1; fill-opacity:1; fill-rule:evenodd; stroke:#000; stroke-width:3; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <g id="rook" width="100" height="100">
+      <g style="opacity:1;fill-opacity:1;fill-rule:evenodd;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">
         <g style="stroke-linecap:butt;">
           <path
-            d="M 20.0,86.7 L 80.0,86.7 L 80.0,80.0 L 20.0,80.0 L 20.0,86.7 z " />
+            d="M 20.0,86.7 L 80.0,86.7 L 80.0,80.0 L 20.0,80.0 L 20.0,86.7 z "/>
           <path
-            d="M 26.7,80.0 L 26.7,71.1 L 73.3,71.1 L 73.3,80.0 L 26.7,80.0 z " />
+            d="M 26.7,80.0 L 26.7,71.1 L 73.3,71.1 L 73.3,80.0 L 26.7,80.0 z "/>
           <path
-            d="M 24.4,31.1 L 24.4,20.0 L 33.3,20.0 L 33.3,24.4 L 44.4,24.4 L 44.4,20.0 L 55.6,20.0 L 55.6,24.4 L 66.7,24.4 L 66.7,20.0 L 75.6,20.0 L 75.6,31.1" />
+            d="M 24.4,31.1 L 24.4,20.0 L 33.3,20.0 L 33.3,24.4 L 44.4,24.4 L 44.4,20.0 L 55.6,20.0 L 55.6,24.4 L 66.7,24.4 L 66.7,20.0 L 75.6,20.0 L 75.6,31.1"/>
           <path
             d="M 68.9,37.8 L 68.9,65.6 L 31.1,65.6 L 31.1,37.8"
-            style="stroke-linejoin:miter;" />
+            style="stroke-linejoin:miter;"/>
         </g>
         <path
-          d="M 75.6,31.1 L 68.9,37.8 L 31.1,37.8 L 24.4,31.1" />
+          d="M 75.6,31.1 L 68.9,37.8 L 31.1,37.8 L 24.4,31.1"/>
         <path
-          d="M 68.9,65.6 L 72.2,71.1 L 27.8,71.1 L 31.1,65.6" />
+          d="M 68.9,65.6 L 72.2,71.1 L 27.8,71.1 L 31.1,65.6"/>
         <path
           d="M 24.4,31.1 L 75.6,31.1"
-          style="fill:none; stroke-linejoin:miter;" />
+          style="fill:none;stroke-linejoin:miter;"/>
       </g>
     </g>
-    <g id="queen" width="100" height="100" >
-      <g style="opacity:1; fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:3; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
+    <g id="queen" width="100" height="100">
+      <g style="opacity:1;fill-opacity:1;fill-rule:evenodd;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">
         <path
           d="M 20.0 28.9 A 4.4 4.4 0.0 2.2 2.2  11.1,28.9 A 4.4 4.4 0.0 2.2 2.2  20.0 28.9 z"
-          transform="translate(-2.2,-2.2)" />
+          transform="translate(-2.2,-2.2)"/>
         <path
           d="M 20.0 28.9 A 4.4 4.4 0.0 2.2 2.2  11.1,28.9 A 4.4 4.4 0.0 2.2 2.2  20.0 28.9 z"
-          transform="translate(34.4,-12.2)" />
+          transform="translate(34.4,-12.2)"/>
         <path
           d="M 20.0 28.9 A 4.4 4.4 0.0 2.2 2.2  11.1,28.9 A 4.4 4.4 0.0 2.2 2.2  20.0 28.9 z"
-          transform="translate(71.1,-2.2)" />
+          transform="translate(71.1,-2.2)"/>
         <path
           d="M 20.0 28.9 A 4.4 4.4 0.0 2.2 2.2  11.1,28.9 A 4.4 4.4 0.0 2.2 2.2  20.0 28.9 z"
-          transform="translate(15.6,-10.0)" />
+          transform="translate(15.6,-10.0)"/>
         <path
           d="M 20.0 28.9 A 4.4 4.4 0.0 2.2 2.2  11.1,28.9 A 4.4 4.4 0.0 2.2 2.2  20.0 28.9 z"
-          transform="translate(53.3,-8.9)" />
+          transform="translate(53.3,-8.9)"/>
         <path
-          d="M 20.0,57.8 C 38.9,54.4 66.7,54.4 80.0,57.8 L 84.4,31.1 L 68.9,55.6 L 68.9,24.4 L 56.7,54.4 L 50.0,21.1 L 43.3,54.4 L 31.1,23.3 L 31.1,55.6 L 15.6,31.1 L 20.0,57.8 z "
-          style="stroke-linecap:butt;" />
+          d="M 20.0,57.8 C 38.9,54.4 66.7,54.4 80.0,57.8 L 84.4,31.1 L 68.9,55.6 L 68.9,24.4 L 56.7,54.4 L 50.0,21.1 L 43.3,54.4 L 31.1,23.3 L 31.1,55.6 L 15.6,31.1 L 20.0,57.8 z"
+          style="stroke-linecap:butt;"/>
         <path
-          d="M 20.0,57.8 C 20.0,62.2 23.3,62.2 25.6,66.7 C 27.8,70.0 27.8,68.9 26.7,74.4 C 23.3,76.7 23.3,80.0 23.3,80.0 C 20.0,83.3 24.4,85.6 24.4,85.6 C 38.9,87.8 61.1,87.8 75.6,85.6 C 75.6,85.6 78.9,83.3 75.6,80.0 C 75.6,80.0 76.7,76.7 73.3,74.4 C 72.2,68.9 72.2,70.0 74.4,66.7 C 76.7,62.2 80.0,62.2 80.0,57.8 C 61.1,54.4 38.9,54.4 20.0,57.8 z "
-          style="stroke-linecap:butt;" />
+          d="M 20.0,57.8 C 20.0,62.2 23.3,62.2 25.6,66.7 C 27.8,70.0 27.8,68.9 26.7,74.4 C 23.3,76.7 23.3,80.0 23.3,80.0 C 20.0,83.3 24.4,85.6 24.4,85.6 C 38.9,87.8 61.1,87.8 75.6,85.6 C 75.6,85.6 78.9,83.3 75.6,80.0 C 75.6,80.0 76.7,76.7 73.3,74.4 C 72.2,68.9 72.2,70.0 74.4,66.7 C 76.7,62.2 80.0,62.2 80.0,57.8 C 61.1,54.4 38.9,54.4 20.0,57.8 z"
+          style="stroke-linecap:butt;"/>
         <path
           d="M 25.6,66.7 C 33.3,64.4 66.7,64.4 74.4,66.7"
-          style="fill:none;" />
+          style="fill:none;"/>
         <path
           d="M 26.7,74.4 C 40.0,72.2 60.0,72.2 73.3,74.4"
-          style="fill:none;" />
+          style="fill:none;"/>
       </g>
     </g>
-    <g id="king" width="100" height="100" >
-      <g style="fill-opacity:1; fill-rule:evenodd; stroke:#000000; stroke-width:3; stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4; stroke-dasharray:none; stroke-opacity:1;">
-        <path
-          d="M 50.0,25.8 L 50.0,13.3"
-          style="fill:none; stroke:#000000; stroke-linejoin:miter;" />
-        <path
-          d="M 44.4,17.8 L 55.6,17.8"
-          style="fill:none; stroke:#000000; stroke-linejoin:miter;" />
+    <g id="king" width="100" height="100">
+      <g style="fill-opacity:1;fill-rule:evenodd;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">
         <path
           d="M 50.0,55.6 C 50.0,55.6 60.0,38.9 56.7,32.2 C 56.7,32.2 54.4,26.7 50.0,26.7 C 45.6,26.7 43.3,32.2 43.3,32.2 C 40.0,38.9 50.0,55.6 50.0,55.6"
-          style="stroke:#000000; stroke-linecap:butt; stroke-linejoin:miter;" />
+          style="stroke-linecap:butt;stroke-linejoin:miter;"/>
         <path
-          d="M 25.6,82.2 C 37.8,90.0 60.0,90.0 72.2,82.2 L 72.2,66.7 C 72.2,66.7 92.2,56.7 85.6,43.3 C 76.7,28.9 55.6,35.6 50.0,52.2 L 50.0,60.0 L 50.0,52.2 C 42.2,35.6 21.1,28.9 14.4,43.3 C 7.8,56.7 25.6,65.6 25.6,65.6 L 25.6,82.2 z "
-          style="stroke:#000000;" />
-        <path
-          d="M 25.6,66.7 C 37.8,60.0 60.0,60.0 72.2,66.7"
-          style="fill:none; stroke:#000000;" />
-        <path
-          d="M 25.6,74.4 C 37.8,67.8 60.0,67.8 72.2,74.4"
-          style="fill:none; stroke:#000000;" />
-        <path
-          d="M 25.6,82.2 C 37.8,75.6 60.0,75.6 72.2,82.2"
-          style="fill:none; stroke:#000000;" />
+          d="M 25.6,82.2 C 37.8,90.0 60.0,90.0 72.2,82.2 L 72.2,66.7 C 72.2,66.7 92.2,56.7 85.6,43.3 C 76.7,28.9 55.6,35.6 50.0,52.2 L 50.0,60.0 L 50.0,52.2 C 42.2,35.6 21.1,28.9 14.4,43.3 C 7.8,56.7 25.6,65.6 25.6,65.6 L 25.6,82.2 z"/>
+        <g style="fill:none">
+          <g style="stroke-linejoin:miter">
+            <path d="M 50.0,25.8 L 50.0,13.3"/>
+            <path d="M 44.4,17.8 L 55.6,17.8"/>
+          </g>
+          <path d="M 25.6,66.7 C 37.8,60.0 60.0,60.0 72.2,66.7"/>
+          <path d="M 25.6,74.4 C 37.8,67.8 60.0,67.8 72.2,74.4"/>
+          <path d="M 25.6,82.2 C 37.8,75.6 60.0,75.6 72.2,82.2"/>
+        </g>
       </g>
     </g>
     <g id="white-pawn" style="fill:#fff">
-      <use xlink:href="#pawn" />
+      <use xlink:href="#pawn"/>
     </g>
-    <g id="black-pawn" style="fill:url(#black-piece-fill)">
-      <use xlink:href="#pawn" />
+    <g id="black-pawn" style="fill:url(#black-fill)">
+      <use xlink:href="#pawn"/>
     </g>
     <g id="white-knight" width="100" height="100" style="fill:#fff">
-      <use xlink:href="#knight" />
+      <use xlink:href="#knight"/>
     </g>
-    <g id="black-knight" width="100" height="100" style="fill:url(#black-piece-fill)">
-      <use xlink:href="#knight" />
+    <g id="black-knight" width="100" height="100" style="fill:url(#black-fill)">
+      <use xlink:href="#knight"/>
     </g>
     <g id="white-bishop" width="100" height="100" style="fill:#fff">
-      <use xlink:href="#bishop" />
+      <use xlink:href="#bishop"/>
     </g>
-    <g id="black-bishop" width="100" height="100" style="fill:url(#black-piece-fill)">
-      <use xlink:href="#bishop" />
+    <g id="black-bishop" width="100" height="100" style="fill:url(#black-fill)">
+      <use xlink:href="#bishop"/>
     </g>
     <g id="white-rook" width="100" height="100" style="fill:#fff">
-      <use xlink:href="#rook" />
+      <use xlink:href="#rook"/>
     </g>
-    <g id="black-rook" width="100" height="100" style="fill:url(#black-piece-fill)">
-      <use xlink:href="#rook" />
+    <g id="black-rook" width="100" height="100" style="fill:url(#black-fill)">
+      <use xlink:href="#rook"/>
     </g>
     <g id="white-queen" width="100" height="100" style="fill:#fff">
-      <use xlink:href="#queen" />
+      <use xlink:href="#queen"/>
     </g>
-    <g id="black-queen" width="100" height="100" style="fill:url(#black-piece-fill)">
-      <use xlink:href="#queen" />
+    <g id="black-queen" width="100" height="100" style="fill:url(#black-fill)">
+      <use xlink:href="#queen"/>
     </g>
     <g id="white-king" width="100" height="100" style="fill:#fff">
-      <use xlink:href="#king" />
+      <use xlink:href="#king"/>
     </g>
-    <g id="black-king" width="100" height="100" style="fill:url(#black-piece-fill)"> 
-      <use xlink:href="#king" />
+    <g id="black-king" width="100" height="100" style="fill:url(#black-fill)"> 
+      <use xlink:href="#king"/>
     </g>
   </defs>
-  <use xlink:href="#white-square" x="0" y="0" />
-  <use xlink:href="#black-square" x="0" y="100" />
-  <use xlink:href="#white-square" x="0" y="200" />
-  <use xlink:href="#black-square" x="0" y="300" />
-  <use xlink:href="#white-square" x="0" y="400" />
-  <use xlink:href="#black-square" x="0" y="500" />
-  <use xlink:href="#white-square" x="0" y="600" />
-  <use xlink:href="#black-square" x="0" y="700" />
-  <use xlink:href="#black-square" x="100" y="0" />
-  <use xlink:href="#white-square" x="100" y="100" />
-  <use xlink:href="#black-square" x="100" y="200" />
-  <use xlink:href="#white-square" x="100" y="300" />
-  <use xlink:href="#black-square" x="100" y="400" />
-  <use xlink:href="#white-square" x="100" y="500" />
-  <use xlink:href="#black-square" x="100" y="600" />
-  <use xlink:href="#white-square" x="100" y="700" />
-  <use xlink:href="#white-square" x="200" y="0" />
-  <use xlink:href="#black-square" x="200" y="100" />
-  <use xlink:href="#white-square" x="200" y="200" />
-  <use xlink:href="#black-square" x="200" y="300" />
-  <use xlink:href="#white-square" x="200" y="400" />
-  <use xlink:href="#black-square" x="200" y="500" />
-  <use xlink:href="#white-square" x="200" y="600" />
-  <use xlink:href="#black-square" x="200" y="700" />
-  <use xlink:href="#black-square" x="300" y="0" />
-  <use xlink:href="#white-square" x="300" y="100" />
-  <use xlink:href="#black-square" x="300" y="200" />
-  <use xlink:href="#white-square" x="300" y="300" />
-  <use xlink:href="#black-square" x="300" y="400" />
-  <use xlink:href="#white-square" x="300" y="500" />
-  <use xlink:href="#black-square" x="300" y="600" />
-  <use xlink:href="#white-square" x="300" y="700" />
-  <use xlink:href="#white-square" x="400" y="0" />
-  <use xlink:href="#black-square" x="400" y="100" />
-  <use xlink:href="#white-square" x="400" y="200" />
-  <use xlink:href="#black-square" x="400" y="300" />
-  <use xlink:href="#white-square" x="400" y="400" />
-  <use xlink:href="#black-square" x="400" y="500" />
-  <use xlink:href="#white-square" x="400" y="600" />
-  <use xlink:href="#black-square" x="400" y="700" />
-  <use xlink:href="#black-square" x="500" y="0" />
-  <use xlink:href="#white-square" x="500" y="100" />
-  <use xlink:href="#black-square" x="500" y="200" />
-  <use xlink:href="#white-square" x="500" y="300" />
-  <use xlink:href="#black-square" x="500" y="400" />
-  <use xlink:href="#white-square" x="500" y="500" />
-  <use xlink:href="#black-square" x="500" y="600" />
-  <use xlink:href="#white-square" x="500" y="700" />
-  <use xlink:href="#white-square" x="600" y="0" />
-  <use xlink:href="#black-square" x="600" y="100" />
-  <use xlink:href="#white-square" x="600" y="200" />
-  <use xlink:href="#black-square" x="600" y="300" />
-  <use xlink:href="#white-square" x="600" y="400" />
-  <use xlink:href="#black-square" x="600" y="500" />
-  <use xlink:href="#white-square" x="600" y="600" />
-  <use xlink:href="#black-square" x="600" y="700" />
-  <use xlink:href="#black-square" x="700" y="0" />
-  <use xlink:href="#white-square" x="700" y="100" />
-  <use xlink:href="#black-square" x="700" y="200" />
-  <use xlink:href="#white-square" x="700" y="300" />
-  <use xlink:href="#black-square" x="700" y="400" />
-  <use xlink:href="#white-square" x="700" y="500" />
-  <use xlink:href="#black-square" x="700" y="600" />
-  <use xlink:href="#white-square" x="700" y="700" />
-  <use xlink:href="#white-pawn" x="0" y="600" width="100" height="100" />
-  <use xlink:href="#white-pawn" x="100" y="600" width="100" height="100" />
-  <use xlink:href="#white-pawn" x="200" y="600" width="100" height="100" />
-  <use xlink:href="#white-pawn" x="300" y="600" width="100" height="100" />
-  <use xlink:href="#white-pawn" x="400" y="600" width="100" height="100" />
-  <use xlink:href="#white-pawn" x="500" y="600" width="100" height="100" />
-  <use xlink:href="#white-pawn" x="600" y="600" width="100" height="100" />
-  <use xlink:href="#white-pawn" x="700" y="600" width="100" height="100" />
-  <use xlink:href="#white-rook" x="0" y="700" width="100" height="100" />
-  <use xlink:href="#white-knight" x="100" y="700" width="100" height="100" />
-  <use xlink:href="#white-bishop" x="200" y="700" width="100" height="100" />
-  <use xlink:href="#white-queen" x="300" y="700" width="100" height="100" />
-  <use xlink:href="#white-king" x="400" y="700" width="100" height="100" />
-  <use xlink:href="#white-bishop" x="500" y="700" width="100" height="100" />
-  <use xlink:href="#white-knight" x="600" y="700" width="100" height="100" />
-  <use xlink:href="#white-rook" x="700" y="700" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="0" y="100" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="100" y="100" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="200" y="100" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="300" y="100" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="400" y="100" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="500" y="100" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="600" y="100" width="100" height="100" />
-  <use xlink:href="#black-pawn" x="700" y="100" width="100" height="100" />
-  <use xlink:href="#black-rook" x="0" y="0" width="100" height="100" />
-  <use xlink:href="#black-knight" x="100" y="0" width="100" height="100" />
-  <use xlink:href="#black-bishop" x="200" y="0" width="100" height="100" />
-  <use xlink:href="#black-queen" x="300" y="0" width="100" height="100" />
-  <use xlink:href="#black-king" x="400" y="0" width="100" height="100" />
-  <use xlink:href="#black-bishop" x="500" y="0" width="100" height="100" />
-  <use xlink:href="#black-knight" x="600" y="0" width="100" height="100" />
-  <use xlink:href="#black-rook" x="700" y="0" width="100" height="100" />
+  <use xlink:href="#white-square" y="0"/>
+  <use xlink:href="#black-square" y="100"/>
+  <use xlink:href="#white-square" y="200"/>
+  <use xlink:href="#black-square" y="300"/>
+  <use xlink:href="#white-square" y="400"/>
+  <use xlink:href="#black-square" y="500"/>
+  <use xlink:href="#white-square" y="600"/>
+  <use xlink:href="#black-square" y="700"/>
+  <use xlink:href="#black-square" x="100" y="0"/>
+  <use xlink:href="#white-square" x="100" y="100"/>
+  <use xlink:href="#black-square" x="100" y="200"/>
+  <use xlink:href="#white-square" x="100" y="300"/>
+  <use xlink:href="#black-square" x="100" y="400"/>
+  <use xlink:href="#white-square" x="100" y="500"/>
+  <use xlink:href="#black-square" x="100" y="600"/>
+  <use xlink:href="#white-square" x="100" y="700"/>
+  <use xlink:href="#white-square" x="200" y="0"/>
+  <use xlink:href="#black-square" x="200" y="100"/>
+  <use xlink:href="#white-square" x="200" y="200"/>
+  <use xlink:href="#black-square" x="200" y="300"/>
+  <use xlink:href="#white-square" x="200" y="400"/>
+  <use xlink:href="#black-square" x="200" y="500"/>
+  <use xlink:href="#white-square" x="200" y="600"/>
+  <use xlink:href="#black-square" x="200" y="700"/>
+  <use xlink:href="#black-square" x="300" y="0"/>
+  <use xlink:href="#white-square" x="300" y="100"/>
+  <use xlink:href="#black-square" x="300" y="200"/>
+  <use xlink:href="#white-square" x="300" y="300"/>
+  <use xlink:href="#black-square" x="300" y="400"/>
+  <use xlink:href="#white-square" x="300" y="500"/>
+  <use xlink:href="#black-square" x="300" y="600"/>
+  <use xlink:href="#white-square" x="300" y="700"/>
+  <use xlink:href="#white-square" x="400" y="0"/>
+  <use xlink:href="#black-square" x="400" y="100"/>
+  <use xlink:href="#white-square" x="400" y="200"/>
+  <use xlink:href="#black-square" x="400" y="300"/>
+  <use xlink:href="#white-square" x="400" y="400"/>
+  <use xlink:href="#black-square" x="400" y="500"/>
+  <use xlink:href="#white-square" x="400" y="600"/>
+  <use xlink:href="#black-square" x="400" y="700"/>
+  <use xlink:href="#black-square" x="500" y="0"/>
+  <use xlink:href="#white-square" x="500" y="100"/>
+  <use xlink:href="#black-square" x="500" y="200"/>
+  <use xlink:href="#white-square" x="500" y="300"/>
+  <use xlink:href="#black-square" x="500" y="400"/>
+  <use xlink:href="#white-square" x="500" y="500"/>
+  <use xlink:href="#black-square" x="500" y="600"/>
+  <use xlink:href="#white-square" x="500" y="700"/>
+  <use xlink:href="#white-square" x="600" y="0"/>
+  <use xlink:href="#black-square" x="600" y="100"/>
+  <use xlink:href="#white-square" x="600" y="200"/>
+  <use xlink:href="#black-square" x="600" y="300"/>
+  <use xlink:href="#white-square" x="600" y="400"/>
+  <use xlink:href="#black-square" x="600" y="500"/>
+  <use xlink:href="#white-square" x="600" y="600"/>
+  <use xlink:href="#black-square" x="600" y="700"/>
+  <use xlink:href="#black-square" x="700" y="0"/>
+  <use xlink:href="#white-square" x="700" y="100"/>
+  <use xlink:href="#black-square" x="700" y="200"/>
+  <use xlink:href="#white-square" x="700" y="300"/>
+  <use xlink:href="#black-square" x="700" y="400"/>
+  <use xlink:href="#white-square" x="700" y="500"/>
+  <use xlink:href="#black-square" x="700" y="600"/>
+  <use xlink:href="#white-square" x="700" y="700"/>
+  <use xlink:href="#white-pawn" y="600"/>
+  <use xlink:href="#white-pawn" x="100" y="600"/>
+  <use xlink:href="#white-pawn" x="200" y="600"/>
+  <use xlink:href="#white-pawn" x="300" y="600"/>
+  <use xlink:href="#white-pawn" x="400" y="600"/>
+  <use xlink:href="#white-pawn" x="500" y="600"/>
+  <use xlink:href="#white-pawn" x="600" y="600"/>
+  <use xlink:href="#white-pawn" x="700" y="600"/>
+  <use xlink:href="#white-rook" y="700"/>
+  <use xlink:href="#white-knight" x="100" y="700"/>
+  <use xlink:href="#white-bishop" x="200" y="700"/>
+  <use xlink:href="#white-queen" x="300" y="700"/>
+  <use xlink:href="#white-king" x="400" y="700"/>
+  <use xlink:href="#white-bishop" x="500" y="700"/>
+  <use xlink:href="#white-knight" x="600" y="700"/>
+  <use xlink:href="#white-rook" x="700" y="700"/>
+  <use xlink:href="#black-pawn" y="100"/>
+  <use xlink:href="#black-pawn" x="100" y="100"/>
+  <use xlink:href="#black-pawn" x="200" y="100"/>
+  <use xlink:href="#black-pawn" x="300" y="100"/>
+  <use xlink:href="#black-pawn" x="400" y="100"/>
+  <use xlink:href="#black-pawn" x="500" y="100"/>
+  <use xlink:href="#black-pawn" x="600" y="100"/>
+  <use xlink:href="#black-pawn" x="700" y="100"/>
+  <use xlink:href="#black-rook"/>
+  <use xlink:href="#black-knight" x="100"/>
+  <use xlink:href="#black-bishop" x="200"/>
+  <use xlink:href="#black-queen" x="300"/>
+  <use xlink:href="#black-king" x="400"/>
+  <use xlink:href="#black-bishop" x="500"/>
+  <use xlink:href="#black-knight" x="600"/>
+  <use xlink:href="#black-rook" x="700"/>
 </svg>
